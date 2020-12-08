@@ -19,3 +19,4 @@ decode coordinates. After finding the coordinates while the bot travels to the
 target node obstacles would be randomly places by organisers on the track. 
 The bot should be able to detect the obstacle present on the track and reroute 
 its path to reach the target node
+![phase_1&2_assembly](https://github.com/DIVYA422/Following-bot/blob/main/phase_1&2_assembly.jpeg?raw=true)
